@@ -1,0 +1,14 @@
+{
+  "name": "node_js-bmicalculator",
+  "version": "1.0.0",
+  "description": "A BMI Calculator with Node.js",
+  "main": "bmi_calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronald Koh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
